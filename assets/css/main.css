@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200&family=Ubuntu:wght@300&display=swap');
+
+
+
+body {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+
+
+.server-card {
+  width: 500px;
+  position: relative;
+  padding: 10px;
+  margin: 17px;
+  background-color: #000000;
+
+}
+
+
+.card-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+
+.server-card::after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 4px solid #151509;
+  box-sizing: border-box;
+}
+
+.card-description {
+  padding: auto;
+}
+
+.card-title {
+  padding: auto;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .server-card {
+    width: 100%;
+  }
+
+
+  .card-title,
+  .card-description {
+    width: 100%;
+  }
+
+
+  .server-card>* {
+    margin: 5px 0;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+
+  .card-title,
+  .card-description {
+    font-size: 16px;
+  }
+}

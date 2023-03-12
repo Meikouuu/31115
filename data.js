@@ -23,7 +23,46 @@ https://discord.gg/5uZztxdMef`,
         "link": "https://discord.gg/5uZztxdMef",
         "invite_status": "dead"
       }
-    }
+    },
+    
+
+  "server_2": {
+
+      "date": "12/3/2023",
+      "type": "porn server/spammer",
+      "id": 1002240988602970302,
+      "name": "ดูคลิปโป๊ฟรี V.7",
+      "title": "seever: ดูคลิปโป๊ฟรี V.7",
+      "description": "No more information bc it's small server 4k members ",
+      "image": "",
+      "status": "in contemplation",
+      "files": "#",
+      "suspected_user": {
+        1: 1041716988558450698
+      },
+      "server_invite": {
+        "promote_message": `ยินดีต้อนรับเข้าสู่ดิสดูคลิปโป้!!!
+        เเค่เเชร์ดิสหรือซื้อ ก๊ได้ดูคลิปตามรายละเอียดด้านล่าง
+        │˚ʚ︰เเจกคลิปเด๊ก･༉
+        │˚ʚ︰ แจกคลิปนักเรียน･༉
+        │˚ʚ : เเจกคลิปจี้ปลายฟ้า ･༉
+        │˚ʚ︰แจกคลิปเด๊ดๆ･༉
+        │˚ʚ︰เสียงไทยชัดๆ ･༉
+        │˚ʚ︰เเจกคลิปดังๆ･༉
+        │˚ʚ︰เเจกคลิประดับพรี่เมี่ยมฟรี ･༉
+        │˚ʚ : แจกคลิปOnlyfans･༉
+        │˚ʚ︰เเจกคลิปผู้ใหญ่ ･༉
+        │˚ʚ︰แจกคลิปไฟเอ็ม･༉
+        │˚ʚ︰ แจกคลิปลับสาวๆ Discord ･༉
+        │˚ʚ︰เเจกคลิปหลุดตอลฟรี ･༉
+        แค่แชร์3 ดิส ได้รับยศดูคลิปฟรี
+        คลิปโป๊ฟรี 10000+ คลิป
+        `,
+        "link": "https://discord.gg/tkVzchfy",
+        "invite_status": "unknown"
+      }
+    },
+    
 
   }
 }
